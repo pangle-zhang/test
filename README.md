@@ -1,1 +1,3 @@
-# test
+# README
+
+This is a test repository.
